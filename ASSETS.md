@@ -1,7 +1,7 @@
 # 素材来源
 
 - `logo-dark.png`：用户提供 logo.ai 的深底版本，未重绘。
-- `red-pot-concept-v1.webp`、`tomato-pot-concept-v1.webp`：内置 image_gen 生成的锅底概念摄影，非门店真实出品证明。
+- `red-pot-concept-v1.webp`、`tomato-pot-concept-v1.webp`及同名 `.jpg` 备用文件：内置 image_gen 生成的锅底概念摄影，非门店真实出品证明。
 - `hotpot.jpg`：[You Le / Unsplash](https://unsplash.com/photos/a-pot-of-soup-on-top-of-a-stove-R_eO1SjCm2Q)。
 - `beef.jpg`：[Wiley Shaw / Unsplash](https://unsplash.com/photos/sliced-raw-meat-on-white-ceramic-plate-fGZpTE1tEMA)。
 - `vegetables.jpg`：Unsplash，图片标识 `photo-1540420773420-3366772f4999`。
